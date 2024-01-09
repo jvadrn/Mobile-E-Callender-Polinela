@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055801414841",
+    "project_id": "fir-calendar-app-5e5fc",
+    "storage_bucket": "fir-calendar-app-5e5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055801414841:android:ea2d83420a4439532f3768",
+        "android_client_info": {
+          "package_name": "com.example.firebasecalendarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPzd6pgEbpb__voPYA_urEvfBtgq7CghY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<!-- highlight_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#111b27" /> <!-- Warna latar belakang yang diinginkan -->
+</shape>

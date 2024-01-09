@@ -1,0 +1,30 @@
+<!-- Define the layout for each item in the RecyclerView -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/textEventName"
+        android:layout_width="245dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Event Name"
+        android:textSize="15dp" />
+
+    <ImageButton
+        android:id="@+id/btnEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Edit Event"
+        android:src="@android:drawable/ic_menu_edit" />
+
+    <ImageButton
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Delete Event"
+        android:src="@android:drawable/ic_menu_delete" />
+</LinearLayout>
